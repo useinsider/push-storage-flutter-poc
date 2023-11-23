@@ -14,7 +14,7 @@
 
 ## Description
 
-This Demo contains simple methods that you can use with the Insider SDK.
+This flutter poc repository demonstrates how to store received push notification using Notification Service extension and retrieve them back in the app lifecycle.
 
 ## Preview
 
