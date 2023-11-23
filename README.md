@@ -16,6 +16,8 @@
 
 This flutter poc repository demonstrates how to store received push notification using Notification Service extension and retrieve them back in the app lifecycle.
 
+Demonstrations made in this poc project are merely an example but not an alternative to the recommended way of retrieving saved push notification using Insider's Message Center product.
+
 ## Preview
 
 <table align="center">
