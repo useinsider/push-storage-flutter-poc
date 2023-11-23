@@ -1,4 +1,4 @@
-# Insider Flutter Demo
+# Insider Flutter Push Storage POC
 
 <p align="center">
   <img src="assets/images/insider-logo-read-me.jpg">
