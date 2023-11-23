@@ -1,0 +1,42 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_insider (3.9.2):
+    - Flutter
+    - InsiderGeofence (= 1.1.0)
+    - InsiderHybrid (= 1.4.0)
+    - InsiderMobile (= 13.3.1)
+  - InsiderGeofence (1.1.0):
+    - InsiderMobile (>= 12.7.5)
+  - InsiderHybrid (1.4.0)
+  - InsiderMobile (13.3.1)
+  - InsiderMobileAdvancedNotification (1.2.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_insider (from `.symlinks/plugins/flutter_insider/ios`)
+  - InsiderMobileAdvancedNotification
+
+SPEC REPOS:
+  trunk:
+    - InsiderGeofence
+    - InsiderHybrid
+    - InsiderMobile
+    - InsiderMobileAdvancedNotification
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_insider:
+    :path: ".symlinks/plugins/flutter_insider/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  flutter_insider: 708008ebadc8c6600d14889c26b91ef575ec6d65
+  InsiderGeofence: ebe670862ecb148b2c69cee6f8bbbbe37050c1ae
+  InsiderHybrid: c03a8ed67b7d8c1deb2dadaa5655d86d6ab3dc33
+  InsiderMobile: 874561ed4eb76bca68d9c8e6f95eb00e83ecf1f7
+  InsiderMobileAdvancedNotification: 5f6721f0a6a6548f711cef29e0b264e96492c961
+
+PODFILE CHECKSUM: 7b7c5f69da1ee59efa5d68cbb05f84ba243bc2c2
+
+COCOAPODS: 1.14.2

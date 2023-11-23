@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "950558379670",
+    "project_id": "insider-sdk",
+    "storage_bucket": "insider-sdk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950558379670:android:742914ba833e94148ffcb7",
+        "android_client_info": {
+          "package_name": "com.useinsider.ecommerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "950558379670-e2tmjpju588brrn3pd5a5vt646icac48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlnV6K4_R6cQsC59MaaHKLFLi9BCg8Z0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "950558379670-e2tmjpju588brrn3pd5a5vt646icac48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
